@@ -1,0 +1,28 @@
+.navigation {
+  font-weight: 500;
+  font-size: 1.2rem;
+  background-color: rgb(102, 151, 208, 1);
+  border-radius: 15px 10px 0px 0px;
+}
+
+.links {
+  color: rgb(255, 255, 255);
+  font-size: medium;
+}
+
+.links:hover {
+  color: rgb(255, 255, 255);
+  text-decoration: underline;
+}
+
+@media (max-width: 769px) {
+  .navigation {
+    max-width: 900px;
+  }
+}
+
+@media (max-width: 634px) {
+  .navigation {
+    font-size: 1.1rem;
+  }
+}
