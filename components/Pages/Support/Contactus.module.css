@@ -1,0 +1,35 @@
+.contactusheader {
+        background-color: rgb(102, 151, 208, 1);
+        color: white;
+        margin-top: 1px;
+        padding-left: 15px;
+        line-height: 50px;
+        font-weight: 400;
+        font-size: x-large;
+}
+
+.bodycontact {
+    margin: 40px;
+    color: #666666;
+    font-size: large;
+}
+
+.btncontactus {
+    margin-left: 37%;
+}
+
+.tableborder {
+    border-style: none;
+}
+
+.contactaddr {
+    padding: 45px;
+    margin: 15px 0px 15px 0px;
+    font-size: large;
+    color: #666666;
+}
+
+.contusbody {
+    border: solid 1px;
+    margin: 5px 0px;
+}

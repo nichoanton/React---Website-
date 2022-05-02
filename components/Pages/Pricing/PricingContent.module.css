@@ -1,0 +1,21 @@
+.priceheader {
+  background-color: rgb(102, 151, 208, 1);
+  color: white;
+  margin-top: 1px;
+  padding-left: 15px;
+  line-height: 50px;
+  font-weight: 400;
+  font-size: x-large;
+}
+
+.tablecont {
+    border: solid 1px ;
+}
+
+.tablehead {
+    text-align: center;
+}
+
+.tdata, .tableheader {
+    border: solid 1px;
+}
